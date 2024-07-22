@@ -228,7 +228,7 @@ footer p {
 }
 
 /* Responsive Design */
-@media (max-width: 768px) {
+@media (max-width: 780px) {
     .about-section .about-content {
         flex-direction: column;
     }
@@ -236,9 +236,4 @@ footer p {
     .about-section img {
         width: 100%;
     }
-    h1{
-        font: 24px;
-    } 
-    ul{
-        font: 16px;
-}
+}    
