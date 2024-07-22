@@ -236,4 +236,9 @@ footer p {
     .about-section img {
         width: 100%;
     }
+    h1{
+        font: 24px;
+    } 
+    ul{
+        font: 16px;
 }
