@@ -54,7 +54,7 @@ nav ul li a:hover {
 
 /* Hero Section */
 .hero-section {
-    background: url('images/Hero.jpg') no-repeat center center/cover;
+    background: url('https://www.google.com/imgres?q=hr%20consulting&imgurl=https%3A%2F%2Fsoteriahr.com%2Fwp-content%2Fuploads%2F2019%2F12%2FSoteria5.jpg&imgrefurl=https%3A%2F%2Fsoteriahr.com%2Fwhy-hr-consulting%2F&docid=8d_09Y2Q0-taUM&tbnid=aglb4bn62ohTmM&vet=12ahUKEwjMgoPt7LqHAxXLRvEDHXerAeoQM3oFCIYBEAA..i&w=750&h=500&hcb=2&ved=2ahUKEwjMgoPt7LqHAxXLRvEDHXerAeoQM3oFCIYBEAA') no-repeat center center/cover;
     height: 100vh;
     display: flex;
     align-items: center;
